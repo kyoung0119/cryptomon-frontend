@@ -82,37 +82,6 @@ https://drive.google.com/file/d/1MY4sTesn01kohd_dsUrUFYJoknegp6v3/view
 
 ![App Screenshot](https://github.com/Cryptomon-WinterProject/frontend/blob/main/src/Assets/ReadMeAssets/Asset10.png)
 
-## 🔗 Know the Project Creater
-
-Akash Gupta
-
-[![portfolio](https://img.shields.io/badge/github_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/akashgupta1909)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-gupta-1909/)
-
-Ayush Garg
-
-[![portfolio](https://img.shields.io/badge/github_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Ayush-019)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-garg-4ba2b1206/)
-
-Harsh Gupta
-
-[![portfolio](https://img.shields.io/badge/github_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/harshgupta1249)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-gupta-72b32120a/)
-
-Harshil Mendpara
-
-[![portfolio](https://img.shields.io/badge/github_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/HarshilMendpara)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshil-mendpara/)
-
-Ujjawal Gupta
-
-[![portfolio](https://img.shields.io/badge/github_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/UjjawalGupta30)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjawalgupta30/)
-
-Raj Varsani
-
-[![portfolio](https://img.shields.io/badge/github_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/RajVarsani)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varsani-raj/)
 
 ## License
 
